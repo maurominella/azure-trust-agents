@@ -51,4 +51,4 @@ If they work, it means the prebuild was used correctly.
 
 ----------
 
-👉 With this setup, each of you will have an identical environment, ready in a few seconds, and will be able to work independently without local installations.
+## 👉 With this setup, each of you will have an identical environment, ready in a few seconds, and will be able to work independently without local installations.
