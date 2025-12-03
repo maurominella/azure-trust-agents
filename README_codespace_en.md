@@ -2,20 +2,15 @@
 Welcome! This repository has been prepared with a Dev Container and GitHub Codespaces Prebuilds to provide you with a ready-to-use environment. With just a few clicks you will have a complete workspace, without local installations.
 
 ## 📦 What is a Codespace?
-A Codespace is a personal workspace based on a VM in the cloud.
-
-Each student creates their own Codespace: it is isolated, private, and linked to their GitHub account.
-
-No one uses another person’s Codespace, and no one consumes Mauro’s or Microsoft’s resources: everyone uses their own free GitHub hours.
+- A Codespace is a personal workspace based on a VM in the cloud.
+- Each student creates their own Codespace: it is isolated, private, and linked to their GitHub account.
+- No one uses another person’s Codespace, and no one consumes Mauro’s or Microsoft’s resources: everyone uses their own free GitHub hours.
 
 ## ⚡ What is a Prebuild?
-A Prebuild is the equivalent of a Docker image already built and published.
-
-The first time Mauro spent ~20 minutes building it, but now it is available to everyone.
-
-When you open a Codespace on main, GitHub will automatically use the prebuild → startup in less than a minute.
-
-You will not see an explicit message “you are using the prebuild”: the only signal is the fast startup.
+- A Prebuild is the equivalent of a Docker image already built and published.
+- The first time Mauro spent ~20 minutes building it, but now it is available to everyone.
+- When you open a Codespace on main, GitHub will automatically use the prebuild → startup in less than a minute.
+- You will not see an explicit message “you are using the prebuild”: the only signal is the fast startup.
 
 ## 📝 Step‑by‑step instructions
 - Log in to GitHub with your personal account.
