@@ -45,13 +45,10 @@ Se funzionano, significa che il prebuild è stato usato correttamente.
 
 
 ## 🎯 Best practice per l’hackathon
-Create il Codespace su main.
-
-Non lasciatelo acceso tutta la notte: fermatelo o cancellatelo.
-
-Fate sempre git push per salvare il vostro lavoro.
-
-Non serve fare login su Microsoft Open Source: lavorate solo sul fork di Mauro.
+- Create il Codespace su main.
+- Non lasciatelo acceso tutta la notte: fermatelo o cancellatelo.
+- Fate sempre git push per salvare il vostro lavoro.
+- Non serve fare login su Microsoft Open Source: lavorate solo sul fork di Mauro.
 
 -----------
 
